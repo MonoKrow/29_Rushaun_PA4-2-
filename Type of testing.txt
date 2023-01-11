@@ -1,0 +1,10 @@
+Unit Testing
+- What is unit Testing?
+Verifies the functionality of a section of code.
+- Unit Testing is conducted by developers.	
+- It is type of whitebox testing
+Integration Testing
+-What is Integration Testing?
+Verifies the interfaces between two or more modules.
+-Integration Testing is conducted by developers	
+-It is type of whitebox testing
