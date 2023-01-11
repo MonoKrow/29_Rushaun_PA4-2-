@@ -8,3 +8,18 @@ Integration Testing
 Verifies the interfaces between two or more modules.
 -Integration Testing is conducted by developers	
 -It is type of whitebox testing
+
+System testing
+What is system Testing?
+System testing is the testing of whether the entire code words of not
+System Testing is conducted by developers
+It is type of whitebox testing
+
+Acceptance testing
+What is acceptance Testing?
+Acceptance testing is to check if the product is acceptable to the manager
+Acceptance Testing is conducted by managers
+It is type of blackbox testing
+
+
+//Updated by 30_Kenneth
